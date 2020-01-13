@@ -1,0 +1,2 @@
+# prologExamp
+Edinburgh Prolog examples
